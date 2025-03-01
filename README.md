@@ -1,8 +1,8 @@
-# Untitled-Electron-Game
+# Mine-City-Game
 
 A browser-based 2D factory building game.
 
-hosted on github pages, [click here](https://balam314.github.io/Untitled-Electron-Game/) to play
+hosted on github pages, [click here]([(https://rocccyborg.github.io/Mine-City-Game/)]) to play
 
 ![Image of steam power motor factory](demo/steam-power-motor-factory.png)
 
